@@ -1,0 +1,8 @@
+# description	TCRex prediction for epitope(s) WT1-126_count1, WT1-37_count1
+# input files	PT3_CR3.tsv
+# TCR repertoire size	102
+# version	2021-08-11
+# IMGT parsing	Yes
+# submission time	2022-04-13 10:48:01
+# BPR threshold	0.0001
+TRBV_gene	CDR3_beta	TRBJ_gene	epitope	pathology	score	bpr
