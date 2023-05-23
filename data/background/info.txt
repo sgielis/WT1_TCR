@@ -1,0 +1,21 @@
+* Summary *
+Total: 16912528 sequences
+ireceptor-public-archive.tsv (7.4 GB): 16912528 sequences (from http://ipa5.ireceptor.org/airr/v1/)
+
+
+* Metadata filters *
+Study ID: PRJNA493983
+Organism: Homo sapiens
+PCR target: TRB
+Cell subset: CD8-positive, alpha-beta T cell, T cell, effector CD8-positive, alpha-beta T cell, naive thymus-derived CD8-positive, alpha-beta T cell
+Tissue: blood, peripheral blood, venous blood
+Target substrate: RNA
+Cell subset phenotype: CD8+
+Collection time: Day 0
+
+* Sequence filters *
+None
+
+* Source *
+/sequences?query_id=56321
+Downloaded by gielis_sofie on Jan 26, 2022 at 12:45 UTC
