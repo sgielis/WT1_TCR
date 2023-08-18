@@ -77,7 +77,7 @@ clustering.batch_cleanup()
 overlap = matrix.transpose()
 overlap = overlap[overlap['Healthy'] >= 1]
 overlap = overlap.replace(0, np.nan)
-overlap.dropna(how='all',subset=['Complete_remission','Relapse'])
+overlap = overlap.dropna(how='all',subset=['Complete_remission','Relapse'])
 print(overlap.shape[0], ' Clusters combining healthy and cancer patients')
 
 # Collect TCRex results
